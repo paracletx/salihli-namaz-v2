@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uygulama açılırken gösterilen çok kısa ve sade splash arka planı.
+     Uygulamanın kendi koyu temasıyla uyumlu düz renk kullanılır. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/black" />
+</layer-list>
